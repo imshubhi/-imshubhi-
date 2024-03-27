@@ -21,4 +21,4 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <div align = "center">
  <img src = "[https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)" width="40" height="45" />
   <div align = "center">
- <img src = "[https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg](https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg)" width="40" height="45" />
+ <img src = "https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" width="40" height="45" />
