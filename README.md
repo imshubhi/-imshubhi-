@@ -6,8 +6,6 @@
 </div>
 ### 👨‍💻: About Me :
 I am a Flutter Developer from India.
-- :seedling: Exploring Technical Content Writing.
-
 - :zap: In my free time, I do Creative work.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/shubham-sharma-67aa7b256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
@@ -24,3 +22,5 @@ I am a Flutter Developer from India.
  <img src = "https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40" height="45" />
  <img src = "https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40" height="45" />
   </div>
+  ### :fire: My Stats :
+  [imshubhi[GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
