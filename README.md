@@ -7,8 +7,8 @@
 ### 👨‍💻: About Me :
 I am a Flutter Developer from India.
 
-- :mailbox:How to reach me: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="LinkedIn_icon"
-            class="icon" onclick="location.href='https://www.linkedin.com/in/shubham-sharma-67aa7b256'">
+- :mailbox:How to reach me: Linkedln- https://www.linkedin.com/in/shubham-sharma-67aa7b256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Instagram - 
             
 <div align = "center">
  :hammer_and_wrench: Languages and Tools :
