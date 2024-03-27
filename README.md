@@ -25,5 +25,8 @@ I am a Flutter Developer from India.
  <img src = "https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40" height="45" />
  <img src = "https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40" height="45" />
   </div>
+  
   ### :fire: My Stats :
+  <div>
   [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=imshubhi)](https://github.com/anuraghazra/github-readme-stats)
+</div>
