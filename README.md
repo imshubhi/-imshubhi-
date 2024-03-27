@@ -10,7 +10,7 @@ I am a Flutter Developer from India.
 - :mailbox:How to reach me: Linkedln- https://www.linkedin.com/in/shubham-sharma-67aa7b256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Instagram - 
 
-<[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=imshubhi)](https://github.com/anuraghazra/github-readme-stats)
+
             
 <div align = "center">
  :hammer_and_wrench: Languages and Tools :
@@ -26,7 +26,5 @@ I am a Flutter Developer from India.
  <img src = "https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40" height="45" />
   </div>
   
-  ### :fire: My Stats :
-  <div>
+ 
   [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=imshubhi)](https://github.com/anuraghazra/github-readme-stats)
-</div>
