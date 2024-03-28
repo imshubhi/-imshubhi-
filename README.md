@@ -30,7 +30,6 @@ I am a Flutter Developer from India.
     align = "center">
  My Stats:
     </div>
-  <div
-    align = "center">
+  <div>
   [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=imshubhi)](https://github.com/anuraghazra/github-readme-stats)
 </div>
